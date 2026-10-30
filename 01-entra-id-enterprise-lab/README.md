@@ -34,11 +34,11 @@ Organizations need a centralized way to manage employee identities and permissio
 | Entra tenant established | Completed |
 | Global Administrator role verified | Completed |
 | Security Defaults verified | Completed |
-| Administrator MFA registration | Pending |
+| Administrator MFA registration | Completed |
 | IT security group created | Completed |
-| Remaining department groups | In progress |
-| Employee provisioning | Not started |
-| Access validation | Not started |
+| Remaining department groups | Completed |
+| Employee provisioning | Completed |
+| Access validation | Completed |
 
 ## Security Considerations
 
