@@ -58,14 +58,14 @@ The following screenshots document the configuration and validation of the WareT
 
 | Evidence | Description |
 |---|---|
-| [01 - Administrator Role](screenshots/01-global-admin-role.png) | Verification of the lab administrator's Global Administrator role |
-| [02 - Security Defaults](screenshots/02-security-defaults.png) | Confirmation that Security Defaults are enabled |
-| [03 - IT Security Group](screenshots/03-it-security-group.png) | Creation of the IT department security group |
-| [04 - Department Security Groups](screenshots/04-all-security-groups.png) | Five department-based security groups |
-| [05 - Employee Provisioning](screenshots/05-employee-account-created.png) | Provisioning of a fictional employee identity |
-| [06 - IT Group Membership](screenshots/06-it-group-membership.png) | IT employee group membership validation |
-| [07 - Security Group Membership](screenshots/07-security-user-membership.png) | Security employee group membership validation |
-| [08 - Administrative Role Audit](screenshots/08-security-user-role-audit.png) | Review of a security employee's directory role assignments |
+| [01 - Administrator Role](screenshots/01-global-admin-role.png.jpeg) | Verification of the lab administrator's Global Administrator role |
+| [02 - Security Defaults](screenshots/02-security-defaults.png.jpeg) | Confirmation that Security Defaults are enabled |
+| [03 - IT Security Group](screenshots/03-it-security-group.png.jpeg) | Creation of the IT department security group |
+| [04 - Department Security Groups](screenshots/04-all-security-groups.png.jpeg) | Five department-based security groups |
+| [05 - Employee Provisioning](screenshots/05-employee-account-created.png.jpeg) | Provisioning of a fictional employee identity |
+| [06 - IT Group Membership](screenshots/06-it-group-membership.png.jpeg) | IT employee group membership validation |
+| [07 - Security Group Membership](screenshots/07-security-user-membership.png.jpeg) | Security employee group membership validation |
+| [08 - Administrative Role Audit](screenshots/08-security-user-role-audit.png.jpeg) | Review of a security employee's directory role assignments |
 
 ## Key Skills Demonstrated
 
