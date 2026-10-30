@@ -51,3 +51,32 @@ Screenshots, scripts, and test results will be added as implementation progresse
 ## Lessons Learned
 
 This section will document IAM concepts, troubleshooting experiences, and security decisions encountered during the project.
+
+## Implementation Evidence
+
+The following screenshots document the configuration and validation of the WareTech Solutions Microsoft Entra ID IAM lab.
+
+| Evidence | Description |
+|---|---|
+| [01 - Administrator Role](screenshots/01-global-admin-role.png) | Verification of the lab administrator's Global Administrator role |
+| [02 - Security Defaults](screenshots/02-security-defaults.png) | Confirmation that Security Defaults are enabled |
+| [03 - IT Security Group](screenshots/03-it-security-group.png) | Creation of the IT department security group |
+| [04 - Department Security Groups](screenshots/04-all-security-groups.png) | Five department-based security groups |
+| [05 - Employee Provisioning](screenshots/05-employee-account-created.png) | Provisioning of a fictional employee identity |
+| [06 - IT Group Membership](screenshots/06-it-group-membership.png) | IT employee group membership validation |
+| [07 - Security Group Membership](screenshots/07-security-user-membership.png) | Security employee group membership validation |
+| [08 - Administrative Role Audit](screenshots/08-security-user-role-audit.png) | Review of a security employee's directory role assignments |
+
+## Key Skills Demonstrated
+
+- Microsoft Entra ID user provisioning
+- Security group creation and membership administration
+- Department-based identity organization
+- Identity security configuration
+- Administrative role assignment review
+- Least-privilege principles
+- IAM documentation and evidence collection
+
+## Project Limitations
+
+This lab demonstrates identity provisioning, group membership management, and directory role reviews. Application-level authorization, automated identity lifecycle management, and broader access certification are separate project phases.
